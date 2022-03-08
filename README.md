@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f4af:
+# Hyperblog
 Un blog increible para el curso
 > El curso de Git y Github es uno de los mejores, debes considerarlo en tu ruta de aprendizaje
 >- Eleven
